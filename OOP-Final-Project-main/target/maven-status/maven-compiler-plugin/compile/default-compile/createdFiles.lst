@@ -1,0 +1,8 @@
+models\ActivityLog.class
+models\Project.class
+ui\LoginFrame.class
+ui\FreelancerDashboard.class
+ui\AdminDashboard.class
+database\DatabaseManager.class
+models\Freelancer.class
+ui\EmployerDashboard.class
